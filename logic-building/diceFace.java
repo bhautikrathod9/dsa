@@ -1,5 +1,5 @@
 // Java program for the above approach
-import java.io.*;
+import java.util.Scanner;
 
 class GfG {
   
@@ -12,8 +12,9 @@ class GfG {
     }
 
     public static void main(String[] args) {
-
-        int n = 2;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter any dice side : ");
+        int n = sc.nextInt();
         oppositeFaceOfDice(n);
     }
 }
