@@ -1,24 +1,19 @@
-// Java program to find opposite face of dice
-class Dice {
-    static int oppositeFaceOfDice(int n) {
-        if (n == 1) {
-            System.out.println(6);
-        } else if (n == 2) {
-            System.out.println(5);
-        } else if (n == 3) {
-            System.out.println(4);
-        } else if (n == 4) {
-            System.out.println(3);
-        } else if (n == 5) {
-            System.out.println(2);
-        } else {
-            System.out.println(1);
-        }
-        return 0;
+// Java program for the above approach
+import java.io.*;
+
+class GfG {
+  
+    static void oppositeFaceOfDice(int n)  {
+      
+        // Stores number on opposite face
+        // of dice
+        int ans = 7 - n;
+        System.out.println(ans);
     }
 
     public static void main(String[] args) {
-        int n = 5;
+
+        int n = 2;
         oppositeFaceOfDice(n);
     }
 }
