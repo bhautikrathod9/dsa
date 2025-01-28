@@ -1,3 +1,4 @@
+package basicProblem;
 public class geoSeriesSum {
     static float sumOfseries(float a, float r, float n){
         float sum = 0;

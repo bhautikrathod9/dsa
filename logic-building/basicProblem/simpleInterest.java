@@ -1,3 +1,4 @@
+package basicProblem;
 class simpleInterest {
     static float simpleInterest(float p, float t, float r) {
         /* Calculate simple interest  */

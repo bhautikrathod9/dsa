@@ -1,3 +1,4 @@
+package basicProblem;
 class table{
     public static void main(String[] args){
        int n = 1;

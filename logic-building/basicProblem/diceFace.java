@@ -1,3 +1,4 @@
+package basicProblem;
 // Java program for the above approach
 import java.util.Scanner;
 

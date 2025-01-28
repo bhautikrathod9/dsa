@@ -1,3 +1,4 @@
+package basicProblem;
 class evenOrOdd{
 
     public static void main(String[] args){

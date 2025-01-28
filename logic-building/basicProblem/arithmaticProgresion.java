@@ -1,3 +1,4 @@
+package basicProblem;
 import java.util.Arrays;
 
 public class arithmaticProgresion {
