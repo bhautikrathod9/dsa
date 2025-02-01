@@ -1,3 +1,4 @@
+package easyProblem;
 import java.util.Scanner;
 
 class sumOfDigits{
