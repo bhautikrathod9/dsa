@@ -5,8 +5,7 @@ import java.util.*;
 class GfG {
     static ArrayList<Integer> getAlternates(int[] arr) {
         ArrayList<Integer> res = new ArrayList<>();
-      
-        // Iterate over all alternate elements
+
         for (int i = 0; i < arr.length; i += 2) {
             res.add(arr[i]);
         }
