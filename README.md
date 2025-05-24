@@ -18,19 +18,41 @@
 
 ---
 
-## 🧠 Topics will be Covered
+## 🧠 Topics will be Covered 
 
-- Arrays & Strings
-- HashMaps & HashSets
-- Recursion & Backtracking
-- Trees, Binary Search Trees
-- Heaps & Priority Queues
-- Sliding Window & Two Pointers
-- Greedy Algorithms
-- Dynamic Programming
-- Bit Manipulation
-- Graphs (DFS/BFS, Union Find)
-- Sorting & Searching
+-Arrays & Strings
+-HashMaps & HashSets
+-Recursion & Backtracking
+-Trees & Binary Search Trees (BST)
+-Heaps & Priority Queues
+-Sliding Window & Two Pointers
+-Greedy Algorithms
+-Dynamic Programming (DP)
+-Bit Manipulation
+-Graphs
+  -DFS (Depth-First Search)
+  -BFS (Breadth-First Search)
+  -Union Find (Disjoint Set Union)
+-Sorting & Searching
+-Stacks & Queues
+-Linked Lists (Singly, Doubly, Circular)
+-Tries (Prefix Trees)
+-Binary Search (on arrays and answers)
+-Matrix Problems
+-Topological Sorting
+-Divide and Conquer
+-Monotonic Stack & Monotonic Queue
+-Number Theory & Math
+-Prefix Sum & Difference Array
+-Segment Trees & Binary Indexed Trees (Fenwick Tree)
+-Suffix Arrays & String Matching (KMP, Rabin-Karp)
+-Game Theory & Minimax
+-Memoization & Tabulation
+-Custom Comparators & Lambda Functions
+-Object-Oriented Problem Solving
+-Ternary Search
+-Reservoir Sampling & Randomized Algorithms
+
 
 ---
 
