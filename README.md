@@ -20,7 +20,7 @@
 
 ## 🧠 Topics will be Covered 
 
--Arrays & Strings
+- Arrays & Strings
 -HashMaps & HashSets
 -Recursion & Backtracking
 -Trees & Binary Search Trees (BST)
