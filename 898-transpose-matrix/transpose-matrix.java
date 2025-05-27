@@ -10,7 +10,7 @@ class Solution {
                transposed[j][i] = matrix[i][j];
             }
         }
-
+        System.gc();
         return transposed;
     }
 }
